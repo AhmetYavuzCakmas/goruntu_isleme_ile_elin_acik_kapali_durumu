@@ -1,0 +1,1 @@
+# goruntu_isleme_ile_elin_acik_kapali_durumu
